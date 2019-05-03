@@ -12,7 +12,7 @@
 * [Longest Palindrome Subsequence (LPS)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/dp/LongestPalindromeSubsequence.java) **- O(n<sup>2</sup>)**
 * [:movie_camera:](https://www.youtube.com/watch?v=cY4HiiFHO1o)[Traveling Salesman Problem (dynamic programming, iterative)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/graphtheory/TspDynamicProgrammingIterative.java) **- O(n<sup>2</sup>2<sup>n</sup>)**
 * [Traveling Salesman Problem (dynamic programming, recursive)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/graphtheory/TspDynamicProgrammingRecursive.java) **- O(n<sup>2</sup>2<sup>n</sup>)**
-* [Minimum Weight Perfect Matching (iterative, complete graph)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/dp/MinimumWeightPerfectMatching.java) **- O(n<sup>3</sup>2<sup>n</sup>)**
+* [Minimum Weight Perfect Matching (iterative, complete graph)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/dp/MinimumWeightPerfectMatching.java) **- O(n<sup>2</sup>2<sup>n</sup>)**
 
 # Geometry
 * [Angle between 2D vectors](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/geometry/AngleBetweenVectors2D.java) **- O(1)**
@@ -150,8 +150,8 @@
 * [Booth's algorithm (finds lexicographically smallest string rotation)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/BoothsAlgorithm.java) **- O(n)**
 * [Knuth-Morris-Pratt algorithm (finds pattern matches in text)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/KMP.java) **- O(n+m)**
 * [Longest Common Prefix (LCP) array](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/LongestCommonPrefixArray.java) **- O(nlog(n)) bounded by SA construction, otherwise O(n)**
-* [Longest Common Substring (LCS)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/LongestCommonSubstring.java) **- O(nlog(n)) bounded by SA construction, otherwise O(n)**
-* [Longest Repeated Substring (LRS)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/LongestRepeatedSubstring.java) **- O(nlog(n))**
+* [:movie_camera:](https://www.youtube.com/watch?v=Ic80xQFWevc)[Longest Common Substring (LCS)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/LongestCommonSubstring.java) **- O(nlog(n)) bounded by SA construction, otherwise O(n)**
+* [:movie_camera:](https://www.youtube.com/watch?v=OptoHwC3D-Y)[Longest Repeated Substring (LRS)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/LongestRepeatedSubstring.java) **- O(nlog(n))**
 * [Manacher's algorithm (finds all palindromes in text)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/ManachersAlgorithm.java) **- O(n)**
 * [Rabin-Karp algorithm (finds pattern matches in text)](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/RabinKarp.java) **- O(n+m)**
 * [Substring verification with suffix array](https://github.com/williamfiset/Algorithms/blob/master/com/williamfiset/algorithms/strings/SubstringVerificationSuffixArray.java) **- O(nlog(n)) SA construction and O(mlog(n)) per query**
